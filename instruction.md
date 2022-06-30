@@ -19,6 +19,8 @@
 
 ## Работа с изображениями
 
+![Alt-image](https://i.pinimg.com/originals/e7/33/91/e7339184de996fc0ff586549fb7794ad.jpg "Cute cat")
+
 ## Ссылки
 
 ## Работа с таблицами
